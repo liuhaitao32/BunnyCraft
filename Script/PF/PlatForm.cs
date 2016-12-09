@@ -24,7 +24,7 @@ public class PlatForm
 	public const string EX_IOS = "ios_cn";
 
 	//
-	public const bool local = true;
+	public const bool local = false;
     //public const string SERVER = "140.210.4.47";
 
     //public const string SERVER4 = "192.168.1.118";
